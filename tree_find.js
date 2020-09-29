@@ -12,7 +12,8 @@
 //          - Check to see if there is a node to the left
 //              - If there is, move to that node and repeat these steps.
 //              - If there is not, we're done searching!
-//
+/// Time complexity: O (log n )
+
 class Node {
     constructor(value) {
       this.value = value;

@@ -12,6 +12,7 @@
 //            - Check to see if there is a node to the left
 //                - If there is, move to that node and repeat these steps.
 //                - If there is not, add that node as the left property.
+// Time complexity: O (log n )
 
 class Node {
   constructor(value) {
