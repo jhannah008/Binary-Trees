@@ -1,0 +1,11 @@
+How do you visit every node at once?
+Traversing a Tree
+    - Two Ways:
+        1). Breadth - first search  
+            - Going across the tree
+        2). Depth - first search 
+            - Going down the tree
+            - 3 different methods:
+                1). Depth first PreOrder
+                2). Depth first PostOrder
+                3). Depth first InOrder
